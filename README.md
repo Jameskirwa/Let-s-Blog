@@ -3,8 +3,11 @@
 ## Description
 #### This is a web application that allows users to express themselves using a blog posts. They they first create an account then log in to start creating blogs..
 #### By **Denis Kibet**
+
 ## [Live Site](https://infinite-dawn-83643.herokuapp.com/)
+
 The user can:
+
 * See various blog posts
 * View blogposts they like
 * See the latests posts
@@ -28,7 +31,9 @@ The user can:
 * Creating the virtual environment
 
           $ python3.6 -m venv --without-pip virtual
+
           $ source virtual/bin/env
+
           $ curl https://bootstrap.pypa.io/get-pip.py | python
 
 * Installing Flask and other Modules
@@ -41,13 +46,14 @@ The user can:
 * Run the application:
 
           $ chmod a+x start.sh
+
           $ ./start.sh
 
 ### Testing the Application
 
 * To run the tests for the class files:
 
-          $ python3.6 manage.py test
+          $python3.6 manage.py test
 
 ## Technologies Used
 

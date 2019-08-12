@@ -1,8 +1,10 @@
 # BLOGGING
 
 ## Description
-#### This is a web application that allows users to express themselves using a blog posts. They they first create an account then log in to start creating blogs..
-#### By **Denis Kibet**
+
+## This is a web application that allows users to express themselves using a blog posts. They they first create an account then log in to start creating blogs..
+
+## By **James Kirwa**
 
 ## [Live Site](https://infinite-dawn-83643.herokuapp.com/)
 
@@ -21,24 +23,24 @@ The user can:
 * pip
 * Virtual environment(virtual)
 
-### Cloning and running
+## Cloning and running
 
 * Clone the application using git clone(this copies the app onto your device). In terminal:
 
-          $ git clone https://github.com/Kibet1816/Blogging.git
+          $ git clone https://github.com/Jameskirwa/Let-s-Blog.git
+
           $ cd Blogging
 
 * Creating the virtual environment
 
           $ python3.6 -m venv --without-pip virtual
-
           $ source virtual/bin/env
-
           $ curl https://bootstrap.pypa.io/get-pip.py | python
 
 * Installing Flask and other Modules
 
           $ python3.6 -m pip install Flask
+
           $ python3.6 -m pip install Flask-Bootstrap
           $ python3.6 -m pip install Flask-Script
           $ python3.6 -m pip install -r requirements.txt
@@ -46,10 +48,9 @@ The user can:
 * Run the application:
 
           $ chmod a+x start.sh
-
           $ ./start.sh
 
-### Testing the Application
+## Testing the Application
 
 * To run the tests for the class files:
 
@@ -77,7 +78,7 @@ For any questions, troubleshooting or contributions,  find me on:
 
 * Email: kibet1816@gmail.com
 
-### License
+## License
 
 [MIT LICENSE](https://github.com/Kibet1816/Blogging/blob/master/license.md)
 Copyright (c) {2019}

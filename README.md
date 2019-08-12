@@ -44,8 +44,10 @@ The user can:
           $ python3.6 manage.py test
 
 ## Technologies Used
+
 * Python 3.6
 * Flask
+
 ## Behaviour driven development/ Specifications
 
 | Behaviour |  Sample Input | Sample Output |
@@ -58,8 +60,11 @@ The user can:
 | Delete comments(writer) | Click delete comment | Comment is deleted |
 
 ## Support and contact details
+
 For any questions, troubleshooting or contributions,  find me on:
-* Email: kibet1816@gmail.com
+*Email: kibet1816@gmail.com
+
 ### License
+
 [MIT LICENSE](https://github.com/Kibet1816/Blogging/blob/master/license.md)
-Copyright (c) {2019} 
+Copyright (c) {2019}

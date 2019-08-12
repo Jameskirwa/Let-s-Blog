@@ -2,7 +2,7 @@
 
 ## Description
 
-## This is a web application that allows users to express themselves using a blog posts. They they first create an account then log in to start creating blogs..
+## This is a web application that allows users to express themselves using a blog posts. They they first create an account then log in to start creating blogs
 
 ## By **James Kirwa**
 
@@ -27,34 +27,33 @@ The user can:
 
 * Clone the application using git clone(this copies the app onto your device). In terminal:
 
-          $ git clone https://github.com/Jameskirwa/Let-s-Blog.git
+           git clone https://github.com/Jameskirwa/Let-s-Blog.git
 
-          $ cd Blogging
+           cd Blogging
 
 * Creating the virtual environment
 
-          $ python3.6 -m venv --without-pip virtual
-          $ source virtual/bin/env
-          $ curl https://bootstrap.pypa.io/get-pip.py | python
+           python3.6 -m venv --without-pip virtual
+           source virtual/bin/env
+           curl https://bootstrap.pypa.io/get-pip.py | python
 
 * Installing Flask and other Modules
 
-          $ python3.6 -m pip install Flask
-
-          $ python3.6 -m pip install Flask-Bootstrap
-          $ python3.6 -m pip install Flask-Script
-          $ python3.6 -m pip install -r requirements.txt
+           python3.6 -m pip install Flask
+           python3.6 -m pip install Flask-Bootstrap
+           python3.6 -m pip install Flask-Script
+           python3.6 -m pip install -r requirements.txt
 
 * Run the application:
 
-          $ chmod a+x start.sh
-          $ ./start.sh
+           chmod a+x start.sh
+           ./start.sh
 
 ## Testing the Application
 
 * To run the tests for the class files:
 
-          $python3.6 manage.py test
+          python3.6 manage.py test
 
 ## Technologies Used
 
@@ -80,5 +79,5 @@ For any questions, troubleshooting or contributions,  find me on:
 
 ## License
 
-[MIT LICENSE](https://github.com/Jameskirwa/Blogging/blob/master/license.md)
+[MIT LICENSE](https://github.com/Jameskirwa/Let'sBlog/master/license.md)
 Copyright (c) {2019}

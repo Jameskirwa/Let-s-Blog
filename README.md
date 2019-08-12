@@ -9,13 +9,17 @@ The user can:
 * View blogposts they like
 * See the latests posts
 * Subscribe to latest post service
+
 ## Setup/Installation Requirements
+
 ### Prerequisites
+
 * python3.6
 * pip
 * Virtual environment(virtual)
 
 ### Cloning and running
+
 * Clone the application using git clone(this copies the app onto your device). In terminal:
 
           $ git clone https://github.com/Kibet1816/Blogging.git
@@ -37,7 +41,6 @@ The user can:
 * Run the application:
 
           $ chmod a+x start.sh
-          
           $ ./start.sh
 
 ### Testing the Application
@@ -65,7 +68,8 @@ The user can:
 ## Support and contact details
 
 For any questions, troubleshooting or contributions,  find me on:
-*Email: kibet1816@gmail.com
+
+* Email: kibet1816@gmail.com
 
 ### License
 

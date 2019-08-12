@@ -1,4 +1,6 @@
-#!/home/denis1816/Desktop/Pizza/virtual/bin/python
+#!/bin/sh
+'''exec' "/home/james/Documents/moringa-school-projects/Let's blog/virtual/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

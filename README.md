@@ -76,9 +76,9 @@ The user can:
 
 For any questions, troubleshooting or contributions,  find me on:
 
-* Email: kibet1816@gmail.com
+* Email: jameskirwa34@gmail.com
 
 ## License
 
-[MIT LICENSE](https://github.com/Kibet1816/Blogging/blob/master/license.md)
+[MIT LICENSE](https://github.com/Jameskirwa/Blogging/blob/master/license.md)
 Copyright (c) {2019}

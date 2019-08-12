@@ -15,7 +15,7 @@ class DevConfig(Config):
 
 class TestConfig(Config):
 
-    DEBUG = True
+    DEBUG = Truee
 
 config_options = {
     'production': ProdConfig,
